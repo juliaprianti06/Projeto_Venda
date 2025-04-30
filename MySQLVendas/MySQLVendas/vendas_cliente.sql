@@ -42,7 +42,7 @@ CREATE TABLE `cliente` (
 
 LOCK TABLES `cliente` WRITE;
 /*!40000 ALTER TABLE `cliente` DISABLE KEYS */;
-INSERT INTO `cliente` VALUES (2,'celia','123.345.378-9','celiamaria@gmail.com','1298888888','av dos narcisos-233','1971-09-08'),(4,'julia','123.456.789-0','juliaprianti@gmail.com','12988888','av. dos narcisos,jardim motorama','2005-10-06'),(8,'julia','345.678.909-12','juliaprianti@gmail.com','(12)98888-8888','av dos narcisos,233','1005-09-09'),(5,'Julia Prianti','549.029.808-19','juliaprianti@gmail.com','1298888','avenida dos narcisos,223','2005-10-06');
+INSERT INTO `cliente` VALUES (2,'celia','123.345.378-9','celiamaria@gmail.com','1298888888','av dos lalala-233','1971-09-08'),(4,'julia','123.456.789-0','juliaprianti@gmail.com','12988888','av. dos alalalal,jardim alalala','2005-10-06'),(8,'julia','345.678.909-12','juliaprianti@gmail.com','(12)98888-8888','av dos narcisos,233','1005-09-09'),(5,'Julia Prianti','549.029.808-19','juliaprianti@gmail.com','1298888','avenida dos alaalallala,25','2005-10-06');
 /*!40000 ALTER TABLE `cliente` ENABLE KEYS */;
 UNLOCK TABLES;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
